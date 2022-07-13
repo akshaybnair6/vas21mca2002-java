@@ -1,6 +1,6 @@
 class Publisher{
     String publisher;
-    Publisher(String public){
+    Publisher(String publi){
         this.publisher = publi;
     }
 }
